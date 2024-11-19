@@ -8,7 +8,7 @@ console.log(56+23);
 console.log('20*2' + "немесе"+ '20+20');
 console.log("он бес қосу бес" + '15+5');*/
 console.log("Менің атым: Айсұлу");
-
+console.log("Менің атым: Galymbek");
 
 
 
